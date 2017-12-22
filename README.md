@@ -37,6 +37,9 @@ Also glad you asked! Please follow the conventions that we discussed earlier tod
 
 We also would like you to read some things we think are important.  
 
+## Node and Postgres
+[Designing a RESTFul API with Node and Postgres](http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/#.WjyIWFQ-fR0)
+
 ## Utilizing outside APIs
 [Calling an outside REST API using Node](https://www.rapiddg.com/blog/calling-rest-api-nodejs-script)
 
