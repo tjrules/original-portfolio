@@ -29,7 +29,8 @@ Glad you asked! You'll be putting your Node & Express knowledge to work. Use the
 
 #### what about the page structure/ setup?
 Also glad you asked! Please follow the conventions that we discussed earlier today as to what constitutes a good profile page example. 
-[50 Inspiring Portfolio Web Sites(https://speckyboy.com/creative-portfolios-of-50-designers/)]
+
+- [50 Inspiring Portfolio Web Sites(https://speckyboy.com/creative-portfolios-of-50-designers/)]
 
 - More to be added after the class review
 
