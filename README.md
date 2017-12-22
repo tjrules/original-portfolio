@@ -11,8 +11,7 @@
 
 
 # 1) Project Prompt
-You guys were given your project prompt earlier today and been given the green light  
-- Now that you've been approved, you get to start! You don't have EVERYTHING you need to hit all of the requirements of the project, but you can still build out everything else that you know: 
+You guys were given your project prompt earlier today and been given the green light.  Now that you've been approved, you get to start! You don't have EVERYTHING you need to hit all of the requirements of the project, but you can still build out everything else that you know: 
   - Single Models, and if you're feeling adventurous, construct your second model and think about how you'd link the two 
   - Views 
   - controllers 
