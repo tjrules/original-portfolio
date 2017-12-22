@@ -12,8 +12,15 @@
 
 # 1) Project Prompt
 You guys were given your project prompt earlier today and been given the green light  
--  [[**expound in more depth?**]]
-
+- Now that you've been approved, you get to start! You don't have EVERYTHING you need to hit all of the requirements of the project, but you can still build out everything else that you know: 
+  - Single Models, and if you're feeling adventurous, construct your second model and think about how you'd link the two 
+  - Views 
+  - controllers 
+  - routes, 
+  - configuring relevant NPM packages, 
+  - finding and testing API calls using Postman or your server
+- Don't be afraid to start, stop, and start again! You'll also have time after break to work on it.
+- Also, keep in mind you'll still have more instruction after break, so you'll need to leave room for other stuff.
 # 2) Portfolio page 
 We want to you build a portfolio page that you'll use to house your projects, blogs and content that you can show to potential employers.
 
