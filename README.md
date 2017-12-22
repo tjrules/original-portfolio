@@ -29,12 +29,12 @@ Glad you asked! You'll be putting your Node & Express knowledge to work. Use the
 
 #### what about the page structure/ setup?
 Also glad you asked! Please follow the conventions that we discussed earlier today as to what constitutes a good profile page example. 
-[vitosalvatore])http://www.vitosalvatore.com/aboutme/)
+[50 Inspiring Portfolio Web Sites(https://speckyboy.com/creative-portfolios-of-50-designers/)]
+
 - More to be added after the class review
 
 
 # 3) Assigned Reading 
--  [[**@joe @jase feel free to expound/ edit... also how could we ensure they read it?**]]
 
 We also would like you to read some things we think are important.  
 
@@ -49,10 +49,7 @@ We also would like you to read some things we think are important.
 
 ## ERD's
 [All About The Entity Relationship Diagram](https://www.smartdraw.com/entity-relationship-diagram/)
-<!---
-This link is about using Sequalize instead of Postges...I'd like to keep their attention soley on Postgre
-[Object-Relational Mapping in Node.js](https://www.codementor.io/hari577/object-relational-mapping-in-nodejs-with-sequelize-du1088h3l)
---->
+
 
 ### 
 
