@@ -56,11 +56,11 @@ We also would like you to read some things we think are important.
 
 # 4) Tech Article
 
-Please also write a tech article about the process that went into building out your portfolio page.
+Please also write a tech article about the process that went into building out your portfolio page using node\express\postgres. You should walk us through that process and use the sections we gathered today as a class to help structure the article. Use them as your guide to help maintain focus yet allow some artistic freedome.  Think about which snippets of code would be of value add to the article and\or which concepts most convery your level of expertise in this technology. 
 
 ## Sections
 
-You should walk us through that process and use the sections we gathered today as a class to help structure the article. Use them as your guide to help maintain focus yet allow some artistic freedome.  Think about which snippets of code would be of value add to the article and\or which concepts most convery your level of expertise in this technology. 
+- Intro
 
 
 ![screen shot 2017-12-21 at 4 14 15 pm](https://git.generalassemb.ly/storage/user/8723/files/0a739cec-e66a-11e7-9e2d-a97e84b706d4)
