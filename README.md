@@ -44,8 +44,9 @@ We also would like you to read some things we think are important.
 [SQL Tables Explained by Voting in an election](https://medium.freecodecamp.org/sql-tables-explained-by-voting-in-the-infamous-2016-election-de638dd9db7)
 
 ## ORM
+<!---
 [Object-Relational Mapping in Node.js](https://www.codementor.io/hari577/object-relational-mapping-in-nodejs-with-sequelize-du1088h3l)
- 
+--->
 
 ### 
 
