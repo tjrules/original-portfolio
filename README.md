@@ -29,7 +29,8 @@ Glad you asked! You'll be putting your Node & Express knowledge to work. Use the
 
 #### what about the page structure/ setup?
 Also glad you asked! Please follow the conventions that we discussed earlier today as to what constitutes a good profile page example. 
--  [[**include link(s) here to examples if applicable**]]
+[vitosalvatore])http://www.vitosalvatore.com/aboutme/)
+- More to be added after the class review
 
 
 # 3) Assigned Reading 
@@ -46,18 +47,22 @@ We also would like you to read some things we think are important.
 ## Examining the relationships between SQL tables 
 [SQL Tables Explained by Voting in an election](https://medium.freecodecamp.org/sql-tables-explained-by-voting-in-the-infamous-2016-election-de638dd9db7)
 
-## ORM
+## ERD's
+[All About The Entity Relationship Diagram](https://www.smartdraw.com/entity-relationship-diagram/)
 <!---
+This link is about using Sequalize instead of Postges...I'd like to keep their attention soley on Postgre
 [Object-Relational Mapping in Node.js](https://www.codementor.io/hari577/object-relational-mapping-in-nodejs-with-sequelize-du1088h3l)
 --->
 
 ### 
 
-# 4) Blogpost
--  [[**@joe @jase feel free to expound/ edit**]]
+# 4) Tech Article
 
-Please also write a blogpost about the process that went into building out your portfolio page.
-You should walk us through your process in building out your portfolio page, and also discuss your pluses, minuses, and delta during the project (ie basically putting into words the chart we make in standup every morning). 
+Please also write a tech article about the process that went into building out your portfolio page.
+
+## Sections
+
+You should walk us through that process and use the sections we gathered today as a class to help structure the article. Use them as your guide to help maintain focus yet allow some artistic freedome.  Think about which snippets of code would be of value add to the article and\or which concepts most convery your level of expertise in this technology. 
 
 
 ![screen shot 2017-12-21 at 4 14 15 pm](https://git.generalassemb.ly/storage/user/8723/files/0a739cec-e66a-11e7-9e2d-a97e84b706d4)
