@@ -1,0 +1,7 @@
+<h1>Edit Portfolio</h1>
+ <form action="<%=`/portfolio/${portfolio.id}?_method=PUT` %>" method="POST">
+   <label for="title">TItle</label>
+   <input id ="title" type="text" name="title" value="<%= portfolio.title%>" />
+   <input type="submit" value="Save changes" />
+ </form>
+ <a href="<%= `/portfolio/${portfolio.id}`%>">Cancel</a>

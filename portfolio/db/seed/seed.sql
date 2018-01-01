@@ -1,0 +1,12 @@
+-- /c portfolio_auth_dev
+-- INSERT INTO portfolio (title, description, image) VALUES
+-- (
+--   'Racer Game',
+--   'Race your opponent in the race of the Ages',
+--   'https://insertlinkhere'
+-- )
+-- (
+--   'Simpsons Trivia Game',
+--   'Test your Simpsons knowledge in this new age trivia game',
+--   'https://insertlinkhere'
+-- )
