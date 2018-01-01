@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 // const logger = require('morgan');
-// const path = require('path');
+const path = require('path');
 // const methodOverride = require('method-override');
 // const bodyParser = require('body-parser');
 // //setup middleware
@@ -13,8 +13,8 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 //
 // //setup ejs
-// app.set('view engine', 'ejs');
-// app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'ejs');
+app.set('views', path.join(__dirname, 'views'));
 // console.log('this is __dirname', __dirname);
 //
 // //sets up home route
@@ -31,8 +31,8 @@ app.get('/', (req,res) => {
 //   console.log('Hitting route');
 // })
 // //links router file to the server
-// const portfolioRouter = require('./routes/portfolio-routes');
-// app.use('/portfolio', portfolioRouter);
+const portfolioRouter = require('./routes/portfolio-routes');
+app.use('/portfolio', portfolioRouter);
 //
 // //404 message
 // app.get('*', (req,res) => {

@@ -1,11 +1,11 @@
 // const Portfolio = ('../models/portfolio');
 // const portfolioController = {};
 
-// module.exports = {
-//   index: (req,res) => {
-//     res.render('/')
-//   }
-// };
+module.exports = {
+  index: (req,res) => {
+    res.render('portfolio/index')
+  }
+};
 
 
 // portfolioController.index = (req,res) => {
