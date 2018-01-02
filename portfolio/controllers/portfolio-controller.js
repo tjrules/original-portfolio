@@ -11,13 +11,28 @@ module.exports = {
 // portfolioController.index = (req,res) => {
 //   Portfolio.findAll()
 //     .then(portfolio => {
+//       console.log('working');
 //       res.render('portfolio/index', {
 //         message:'ok',
-//         portfolio: portfolio
+//         portfolio: portfolio,
 //       })
 //     })
-// }
+//       .catch(err => {
+//         res.status(400).json(err);
+//       });
 //
+// };
+
+// portfolioController.index = (req, res) => {
+//   Portfolio.findAll()
+//     .then(portfolio => {
+//       res.render('portfolio/index', { portfolio: portfolio });
+//     })
+//     .catch(err => {
+//       res.status(400).json(err);
+//     });
+// };
+
 // portfolioController.show = (req,res) => {
 //   Portfolio.findById(req.params.id)
 //     .then(portfolio => {

@@ -1,14 +1,14 @@
 const express = require('express');
 const app = express();
-// const logger = require('morgan');
+const logger = require('morgan');
 const path = require('path');
-// const methodOverride = require('method-override');
-// const bodyParser = require('body-parser');
+const methodOverride = require('method-override');
+const bodyParser = require('body-parser');
 // //setup middleware
-// app.use(methodOverride('_method'));
+app.use(methodOverride('_method'));
 // app.use(bodyParser.json());
-// app.use(express.static('public'));
-// //app.use(bodyParser.urlencoded({extended: false}));
+app.use(express.static('public'));
+app.use(bodyParser.urlencoded({extended: false}));
 // //sets up the port
 const PORT = process.env.PORT || 3000;
 //
@@ -20,10 +20,10 @@ app.set('views', path.join(__dirname, 'views'));
 // //sets up home route
 app.get('/', (req,res) => {
   res.send('Welcome Home!');
-//   res.render('index', {
-//     data: 'Hey Hey Hey',
-//     title: 'game'
-//   })
+  res.render('index', {
+    data: 'Hey Hey Hey',
+    title: 'game'
+  })
 });
 //
 // app.get('/db', (req,res) => {

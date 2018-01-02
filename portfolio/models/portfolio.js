@@ -1,9 +1,9 @@
-// const db = require('../db/config');
-// const Portfolio = {};
-//
-// Portfolio.findAll = () => {
-//   return db.query('SELECT * FROM portfolio');
-// }
+const db = require('../db/config');
+const Portfolio = {};
+
+Portfolio.findAll = () => {
+  return db.query('SELECT * FROM portfolio');
+};
 //
 // Portfolio.findById = (id) => {
 //   console.log(db);
@@ -23,4 +23,4 @@
 //   )
 // }
 //
-// module.exports = Portfolio;
+module.exports = Portfolio;

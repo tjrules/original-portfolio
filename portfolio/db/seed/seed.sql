@@ -1,4 +1,4 @@
--- /c portfolio_auth_dev
+/c portfolio_auth_dev
 INSERT INTO portfolio (title, description, image) VALUES
 (
   'Racer Game',

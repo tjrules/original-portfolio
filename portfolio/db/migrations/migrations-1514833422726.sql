@@ -1,4 +1,4 @@
--- /c portfolio_auth_dev
+/c portfolio_auth_dev
 
 CREATE TABLE IF NOT EXISTS portfolio (
   id BIGSERIAL PRIMARY KEY,
