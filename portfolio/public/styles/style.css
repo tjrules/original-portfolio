@@ -7,16 +7,76 @@ body {
 .section {
  text-align: center;
  max-width: 800px;
- height: 350px;
- font-size: 24px;
+ height: 400px;
+ font-size: 18px;
  margin: auto;
  background-color: white;
 
 
 }
 
-.tj-pic {
-	 background: url("http://i65.tinypic.com/14kyybl.jpg") center;
+.tj-pic-1 {
+    background: url("http://res.cloudinary.com/dftzmialt/image/upload/v1519246156/tjcamera_t8qwig.jpg") center;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: auto;
+    position: relative;
+    height: 400px;
+    border: 1px solid black;
+}
+
+.tj-pic-2 {
+    background: url("http://i65.tinypic.com/14kyybl.jpg") center;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: auto;
+    position: relative;
+    height: 400px;
+    border: 1px solid black;
+}
+
+.tj-pic-3 {
+	 background: url("http://res.cloudinary.com/dftzmialt/image/upload/v1519246615/tjsittingcoffee_im3vs6.jpg") center;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: auto;
+    position: relative;
+    height: 400px;
+    border: 1px solid black;
+}
+
+.tj-pic-4 {
+	 background: url("http://res.cloudinary.com/dftzmialt/image/upload/v1519246055/tjcoffee_yr1aej.jpg") center;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: auto;
+    position: relative;
+    height: 400px;
+    border: 1px solid black;
+}
+
+.tj-pic-5 {
+	 background: url("http://res.cloudinary.com/dftzmialt/image/upload/v1516068457/20160929180706_IMG_2401_floz9r.jpg") center;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: auto;
+    position: relative;
+    height: 400px;
+    border: 1px solid black;
+}
+
+.tj-pic-6 {
+	 background: url("http://res.cloudinary.com/dftzmialt/image/upload/v1519245643/explosion_zvgln5.jpg") center;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: auto;
+    position: relative;
+    height: 400px;
+    border: 1px solid black;
+}
+
+.tj-pic-7 {
+	 background: url("http://res.cloudinary.com/dftzmialt/image/upload/v1519245643/tj_glasses_jwvk9f.jpg") center;
     background-attachment: fixed;
     background-size: cover;
     overflow: auto;
@@ -93,6 +153,4 @@ nav {
   border: none;
 }
 
-.portfolio {
 
-}

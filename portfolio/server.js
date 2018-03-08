@@ -32,7 +32,7 @@ app.get('/', (req,res) => {
 // })
 // //links router file to the server
 const portfolioRouter = require('./routes/portfolio-routes');
-app.use('/portfolio', portfolioRouter);
+app.use('/', portfolioRouter);
 //
 // //404 message
 // app.get('*', (req,res) => {
